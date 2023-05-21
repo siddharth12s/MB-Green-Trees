@@ -92,6 +92,7 @@ header {
 .form-button-row > a {
   color: #c1f7d5;
   align-self: flex-start;
+  font-size: 1.4vh;
 }
 .form-button-row > button {
   border-radius: 6vw;
@@ -292,6 +293,7 @@ option {
   }
   .form-button-row > a {
     align-self: center;
+    font-size: 2vh;
   }
   .text {
     justify-content: center;
@@ -377,6 +379,7 @@ option {
   }
   .form-button-row > a {
     align-self: center;
+    font-size: 1.2vw;
   }
   h2 {
     font-size: 2vw;
