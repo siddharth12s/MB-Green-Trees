@@ -372,6 +372,7 @@ option {
   }
   .form-button-row > button {
     width: 50%;
+    height: fit-content;
     font-size: 1.2vw;
   }
   .form-button-row > a {
