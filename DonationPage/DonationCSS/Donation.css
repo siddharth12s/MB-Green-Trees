@@ -260,7 +260,7 @@ option {
   margin-bottom: 2%;
 }
 
-@media screen and (min-width: 500px) and (max-width: 900px) {
+@media screen and (min-width: 500px) and (max-width: 940px) {
   header {
     height: 7%;
   }
@@ -288,6 +288,7 @@ option {
   }
   .form-button-row > button {
     width: 50%;
+    font-size: 14px;
   }
   .form-button-row > a {
     align-self: center;
@@ -321,7 +322,7 @@ option {
   }
 }
 
-@media screen and (min-width: 900px) {
+@media screen and (min-width: 940px) {
   html,
   body {
     height: 100vh;
@@ -371,6 +372,8 @@ option {
   }
   .form-button-row > button {
     width: 50%;
+    font-size: 14px;
+
   }
   .form-button-row > a {
     align-self: center;
